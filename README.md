@@ -1,6 +1,6 @@
 # Teste para Engenheiro de Software Backend
 
-A proposta deste teste é criar uma sistema de lista de historias dos personagens da Marvel com integração com a API da Marvel Commics. 
+A proposta deste teste é criar uma sistema de lista de historias dos personagens da Marvel com integração com a API da Marvel Comics. 
 
 ## Como fazer seu teste
    - Para realizar o teste faça um Fork do repositório e trabalhe no branch com seu nome-sobrenome. Quando terminar faça um PullRequest deste branch. 
