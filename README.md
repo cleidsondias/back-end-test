@@ -16,7 +16,7 @@ A proposta deste teste é criar uma sistema de lista de historias dos personagen
 
 ## Especificação do projeto
 
-  - Fazer setup de uma API em [spring.io](https://start.spring.io).
+  - Fazer setup de uma API utilizando [spring.io](https://start.spring.io).
   - Implemente sua API seguindo as melhores práticas de arquitetura e design patterns.
   - Utilize as libs que ache necessário na implementação da sua API.
 
