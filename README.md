@@ -39,3 +39,6 @@ A proposta deste teste é criar uma sistema de lista de historias dos personagen
 ## Quinto exercício
 
   - Gerar a documentação de uso da API (swagger).
+  
+Sua avaliação será analisada por ferramentas de qualidade de código estatica, que alem de avaliar a sua qualidade também avaliará seu condigo com de outros canditatos. após isso seu código passará por um processo de gamificação para atribuição de nota.
+
